@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Student (Computer Science)
+- 🎓 MCA Student (Computer Science)
 - 💻 Passionate about Java, Spring Boot & Web Development
 - 🌱 Currently learning Machine Learning & React
 - 🚀 Building real-world projects
